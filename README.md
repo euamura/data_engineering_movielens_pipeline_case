@@ -1,4 +1,4 @@
-# Netflix Data Pipeline 🎬
+# Movie Streaming Data Pipeline 🎬
 
 **[EN]** End-to-end data engineering pipeline built on MovieLens Netflix rating and recommendation data — covering raw ingestion on Google Cloud Storage, dimensional modeling in BigQuery (Bronze → Silver → Gold), containerized deployment with Docker, and business intelligence dashboards in Metabase. The project goes beyond infrastructure: it includes a model evaluation layer that measured recommendation quality metrics (MAE, RMSE, Bias) and, given the poor initial results, produced a business-facing analysis proposing a new model architecture. → [Full README (English)](docs/README_EN.md)
 
